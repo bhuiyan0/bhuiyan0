@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mamun Bhuiyan</h1>
+<h1 align="center"> <span style="color:#f89">Assalamu Alaikum</span>, I'm Mamun Bhuiyan</h1>
 <h3 align="center">A passionate JavaScript developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuiyan911&label=Profile%20views&color=0e75b6&style=flat" alt="bhuiyan911" /> </p>
@@ -12,74 +12,57 @@
 
 - 💬 Ask me about **JavaScript, Next.js, Nest.js**
 
-- 📫 How to reach me **mamunbhuiyan919@gmail.com**
+<!-- - 📫 How to reach me **mamunbhuiyan919@gmail.com** -->
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me...
 <p align="left">
-<a href="https://linkedin.com/in/bhuiyan911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuiyan911" height="30" width="40" /></a>
-<a href="https://fb.com/bhuiyan911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhuiyan911" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhuiyan911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhuiyan911" height="30" width="40" /></a>
+	<a style="display: inline-block;margin:5px;" href="https://linkedin.com/in/mamun0">
+	<img src="icons/social/linkedin.svg" alt="linkedin" style="vertical-align:top;"></a>
+	<a style="display: inline-block;margin:5px;" href="https://wa.me/8801612793518">
+	<img src="icons/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top;"></a>
+	<a style="display: inline-block;margin:5px;" href="skype:mamunbhuiyan919?chat">
+	<img src="icons/social/skype.svg" alt="skype" style="vertical-align:top;"></a>
+	<a style="display: inline-block;margin:5px;" href="mailto:mamunbhuiyan919@gmail.com">
+	<img src="icons/social/gmail.svg" alt="gmail" style="vertical-align:top;"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### - Languages and Tools...
+### Languages and Tools...
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  	<a style="display: inline-block;margin:5px;" href="https://www.javascript.com"><img src="icons/js.svg" alt="js" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://nodejs.org"><img src="icons/nodejs.svg" alt="nodejs" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://angularjs.org"><img src="icons/angular.svg" alt="angular" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="#"><img src="icons/aws.svg" alt="aws" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="#"><img src="icons/bash.svg" alt="bash" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://getbootstrap.com"><img src="icons/bootstrap.svg" alt="bootstrap" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://docs.microsoft.com/en-us/dotnet/csharp"><img src="icons/csharp_dotnet.svg" alt="c#" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/css3.svg" alt="css3" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://expressjs.com"><img src="icons/express.svg" alt="express" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://git-scm.com"><img src="icons/git.svg" alt="git" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/html.svg" alt="html" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://jquery.com"><img src="icons/jquery.svg" alt="jquery" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.mongodb.com"><img src="icons/mongodb.svg" alt="mongodb" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.mysql.com"><img src="icons/mysql.svg" alt="mysql" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.nestjs.com"><img src="icons/nestjs.svg" alt="nestjs" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.nextjs.org"><img src="icons/nextjs.svg" alt="nextjs" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.npmjs.com"><img src="icons/npm.svg" alt="npm" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.reactjs.org"><img src="icons/react.svg" alt="react" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.saas-lang.com"><img src="icons/sass.svg" alt="sass" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.typescriptlang.org"><img src="icons/typescript.svg" alt="typescript" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.yarnpkg.com/"><img src="icons/yarn.svg" alt="yarn" style="vertical-align:top;"></a>
   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:5px">
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:5px">
-
-<img src="./icons/nestjs.svg" alt="nestjs" style="vertical-align:top; margin:5px">  
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp" style="vertical-align:top; margin:5px">
-
-<img src="./icons/mysql.svg" alt="mysql" style="vertical-align:top; margin:5px"> 
-<img src="./icons/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:5px"> 
-<img src="./icons/typescript.svg" alt="typescript" style="vertical-align:top; margin:5px"> 
-<img src="./icons/express.svg" alt="express" style="vertical-align:top; margin:5px"> 
-<img src="./icons/git.svg" alt="git" style="vertical-align:top; margin:5px"> 
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:5px">
-
-
-<img src="./icons/nextjs.svg" alt="nestjs" style="vertical-align:top; margin:5px"> 
-
- <a href="#">
-    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-<a href="#">
-    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:5px">
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:5px">
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/saas.svg" alt="saas" style="vertical-align:top; margin:5px">
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:5px">
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:5px">
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:5px">
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:5px">
-
-
-<img src="./icons/yarn.svg" alt="yarn" style="vertical-align:top; margin:5px"> 
 
  </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuiyan911&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhuiyan911" /></p>
+
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuiyan911&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuiyan911&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhuiyan911" /></p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhuiyan911&theme=dark)](https://git.io/streak-stats)
 
-[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhuiyan911)](https://github.com/bhuiyan911/github-readme-stats)
+<!-- [![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhuiyan911)](https://github.com/bhuiyan911/github-readme-stats) -->
 
