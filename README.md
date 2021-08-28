@@ -29,42 +29,49 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:5px">
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/node.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:5px">
 
-<img src="./icons/nestjs.svg" alt="nestjs" style="vertical-align:top; margin:4px">  
+<img src="./icons/nestjs.svg" alt="nestjs" style="vertical-align:top; margin:5px">  
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp" style="vertical-align:top; margin:5px">
 
-<img src="./icons/mysql.svg" alt="mysql" style="vertical-align:top; margin:4px"> 
-<img src="./icons/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:4px"> 
-<img src="./icons/typescript.svg" alt="typescript" style="vertical-align:top; margin:4px"> 
-<img src="./icons/express.svg" alt="express" style="vertical-align:top; margin:4px"> 
-<img src="./icons/git.svg" alt="git" style="vertical-align:top; margin:4px"> 
+<img src="./icons/mysql.svg" alt="mysql" style="vertical-align:top; margin:5px"> 
+<img src="./icons/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:5px"> 
+<img src="./icons/typescript.svg" alt="typescript" style="vertical-align:top; margin:5px"> 
+<img src="./icons/express.svg" alt="express" style="vertical-align:top; margin:5px"> 
+<img src="./icons/git.svg" alt="git" style="vertical-align:top; margin:5px"> 
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-
-
-<img src="./icons/nextjs.svg" alt="nestjs" style="vertical-align:top; margin:4px"> 
-
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:5px">
 
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="vue" style="vertical-align:top; margin:4px">
+<img src="./icons/nextjs.svg" alt="nestjs" style="vertical-align:top; margin:5px"> 
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/saas.svg" alt="saas" style="vertical-align:top; margin:4px">
+ <a href="#">
+    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<a href="#">
+    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:5px">
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:5px">
 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/saas.svg" alt="saas" style="vertical-align:top; margin:5px">
 
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="./icons/yarn.svg" alt="yarn" style="vertical-align:top; margin:4px"> 
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:5px">
+
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:5px">
+
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:5px">
+
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:5px">
+
+
+<img src="./icons/yarn.svg" alt="yarn" style="vertical-align:top; margin:5px"> 
 
  </p>
 
