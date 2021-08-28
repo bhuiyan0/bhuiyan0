@@ -32,25 +32,25 @@
 <p align="center">
   	<a style="display: inline-block;margin:5px;" href="https://www.javascript.com"><img src="icons/js.svg" alt="js" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://nodejs.org"><img src="icons/nodejs.svg" alt="nodejs" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://angularjs.org"><img src="icons/angular.svg" alt="angular" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="#"><img src="icons/aws.svg" alt="aws" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="#"><img src="icons/bash.svg" alt="bash" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://getbootstrap.com"><img src="icons/bootstrap.svg" alt="bootstrap" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://docs.microsoft.com/en-us/dotnet/csharp"><img src="icons/csharp_dotnet.svg" alt="c#" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/css3.svg" alt="css3" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://expressjs.com"><img src="icons/express.svg" alt="express" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://git-scm.com"><img src="icons/git.svg" alt="git" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/html.svg" alt="html" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://jquery.com"><img src="icons/jquery.svg" alt="jquery" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://www.mongodb.com"><img src="icons/mongodb.svg" alt="mongodb" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://www.mysql.com"><img src="icons/mysql.svg" alt="mysql" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://docs.microsoft.com/en-us/dotnet/csharp"><img src="icons/csharp_dotnet.svg" alt="c#" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://www.nestjs.com"><img src="icons/nestjs.svg" alt="nestjs" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://www.nextjs.org"><img src="icons/nextjs.svg" alt="nextjs" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://www.npmjs.com"><img src="icons/npm.svg" alt="npm" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://www.reactjs.org"><img src="icons/react.svg" alt="react" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://www.saas-lang.com"><img src="icons/sass.svg" alt="sass" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.mysql.com"><img src="icons/mysql.svg" alt="mysql" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://www.typescriptlang.org"><img src="icons/typescript.svg" alt="typescript" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.mongodb.com"><img src="icons/mongodb.svg" alt="mongodb" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://jquery.com"><img src="icons/jquery.svg" alt="jquery" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://angularjs.org"><img src="icons/angular.svg" alt="angular" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/html.svg" alt="html" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/css3.svg" alt="css3" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://getbootstrap.com"><img src="icons/bootstrap.svg" alt="bootstrap" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.reactjs.org"><img src="icons/react.svg" alt="react" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.nextjs.org"><img src="icons/nextjs.svg" alt="nextjs" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.saas-lang.com"><img src="icons/sass.svg" alt="sass" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://git-scm.com"><img src="icons/git.svg" alt="git" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="#"><img src="icons/bash.svg" alt="bash" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="https://www.npmjs.com"><img src="icons/npm.svg" alt="npm" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://www.yarnpkg.com/"><img src="icons/yarn.svg" alt="yarn" style="vertical-align:top;"></a>
+ 	<a style="display: inline-block;margin:5px;" href="#"><img src="icons/aws.svg" alt="aws" style="vertical-align:top;"></a>
   
 
 
