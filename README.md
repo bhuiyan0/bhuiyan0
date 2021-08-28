@@ -20,7 +20,7 @@
 	<img src="icons/social/linkedin.svg" alt="linkedin" style="vertical-align:top;"></a>
 	<a style="display: inline-block;margin:5px;" href="https://wa.me/8801612793518">
 	<img src="icons/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top;"></a>
-	<a style="display: inline-block;margin:5px;" href="skype:mamunbhuiyan919?chat">
+	<a style="display: inline-block;margin:5px;" href="skype:-mamunbhuiyan919-?chat">
 	<img src="icons/social/skype.svg" alt="skype" style="vertical-align:top;"></a>
 	<a style="display: inline-block;margin:5px;" href="mailto:mamunbhuiyan919@gmail.com">
 	<img src="icons/social/gmail.svg" alt="gmail" style="vertical-align:top;"></a>
