@@ -27,7 +27,7 @@
 
 ### Languages and Tools...
 
-<p align="center">
+<p align="left">
   	<a style="display: inline-block;margin:5px;" href="https://www.javascript.com"><img src="icons/js.svg" alt="js" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://nodejs.org"><img src="icons/nodejs.svg" alt="nodejs" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://expressjs.com"><img src="icons/express.svg" alt="express" style="vertical-align:top;"></a>
