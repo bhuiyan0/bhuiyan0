@@ -63,4 +63,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhuiyan911&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhuiyan911&layout=compact)](https://github.com/bhuiyan911/github-readme-stats) -->
+<a href="https://app.daily.dev/bhuiyan911"><img src="https://api.daily.dev/devcards/fa655fda4a574de780cda08c5e171c9c.png?r=i69" width="400" alt="Mamun Bhuiyan's Dev Card"/></a>
 
