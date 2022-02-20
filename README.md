@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuiyan911" alt="bhuiyan911" /></a> </p>
 
-- 🔭 I’m currently working on <a style="display: inline-block;margin:5px;" href="https://quykshop.com" target="_blank">quykshop</a>
+- 🔭 I’m currently working on <a style="display: inline-block;margin:5px;" href="https://propcloud.no" target="_blank">PropCloud</a>
 
-- 🌱 I’m currently learning **Nest.js, Next.js, React.js etc**
+- 🌱 I’m currently learning **Svelte.js, Tailwind.css, Nest.js, Next.js, React.js etc**
 
 - 💬 Ask me about **JavaScript, Next.js, Nest.js**
 
