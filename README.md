@@ -2,9 +2,9 @@
 <h1 align="center"> <span style="color:#f89">Assalamu Alaikum</span>, I'm Mamun Bhuiyan</h1>
 <h3 align="center">A passionate JavaScript developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuiyan911&label=Profile%20views&color=0e75b6&style=flat" alt="bhuiyan911" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuiyan0&label=Profile%20views&color=0e75b6&style=flat" alt="bhuiyan0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuiyan911" alt="bhuiyan911" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuiyan0" alt="bhuiyan0" /></a> </p>
 
 - 🔭 I’m currently working on <a style="display: inline-block;margin:5px;" href="https://propcloud.no" target="_blank">PropCloud</a>
 
@@ -54,14 +54,14 @@
 
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuiyan911&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhuiyan911" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuiyan0&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhuiyan0" /></p>
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuiyan911&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuiyan0&show_icons=true&theme=radical)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhuiyan911&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhuiyan0&theme=dark)](https://git.io/streak-stats)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhuiyan911&layout=compact)](https://github.com/bhuiyan911/github-readme-stats) -->
-<a href="https://app.daily.dev/bhuiyan911"><img src="https://api.daily.dev/devcards/fa655fda4a574de780cda08c5e171c9c.png?r=i69" width="400" alt="Mamun Bhuiyan's Dev Card"/></a>
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhuiyan0&layout=compact)](https://github.com/bhuiyan0/github-readme-stats) -->
+<a href="https://app.daily.dev/bhuiyan0"><img src="https://api.daily.dev/devcards/fa655fda4a574de780cda08c5e171c9c.png?r=i69" width="400" alt="Mamun Bhuiyan's Dev Card"/></a>
 
