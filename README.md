@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on <a style="display: inline-block;margin:5px;" href="https://propcloud.no" target="_blank">PropCloud</a>
 
-- 🌱 I’m currently learning **Svelte.js, Tailwind.css, Nest.js, Next.js, React.js etc**
+-  I'm Currently learning **Redux**
+-  My Current Stack **HTML, CSS, Javascript, Svelte.js, Tailwind.css, React.js, Nest.js, Next.js**
 
 - 💬 Ask me about **JavaScript, Next.js, Nest.js**
 
@@ -30,8 +31,7 @@
 <p align="center">
   	<a style="display: inline-block;margin:5px;" href="https://www.javascript.com"><img src="icons/js.svg" alt="js" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://nodejs.org"><img src="icons/nodejs.svg" alt="nodejs" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://expressjs.com"><img src="icons/express.svg" alt="express" style="vertical-align:top;"></a>
- 	<a style="display: inline-block;margin:5px;" href="https://docs.microsoft.com/en-us/dotnet/csharp"><img src="icons/csharp_dotnet.svg" alt="c#" style="vertical-align:top;"></a>
+ 	
  	<a style="display: inline-block;margin:5px;" href="https://www.nestjs.com"><img src="icons/nestjs.svg" alt="nestjs" style="vertical-align:top;"></a>
 	<a style="display: inline-block;margin:5px;" href="https://www.typescriptlang.org"><img src="icons/typescript.svg" alt="typescript" style="vertical-align:top;"></a>
  	<a style="display: inline-block;margin:5px;" href="https://www.mysql.com"><img src="icons/mysql.svg" alt="mysql" style="vertical-align:top;"></a>
