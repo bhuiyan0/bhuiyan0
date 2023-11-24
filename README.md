@@ -26,10 +26,9 @@
 
 ### Languages and Tools...
 
-<p align="center">
+<p align="left">
   <a style="display: inline-block;margin:5px;" href="https://www.javascript.com"><img src="icons/js.svg" alt="js" style="vertical-align:top;"></a>
  <a style="display: inline-block;margin:5px;" href="https://nodejs.org"><img src="icons/nodejs.svg" alt="nodejs" style="vertical-align:top;"></a>
- 	
  <a style="display: inline-block;margin:5px;" href="https://www.nestjs.com"><img src="icons/nestjs.svg" alt="nestjs" style="vertical-align:top;"></a>
 <a style="display: inline-block;margin:5px;" href="https://www.typescriptlang.org"><img src="icons/typescript.svg" alt="typescript" style="vertical-align:top;"></a>
  <a style="display: inline-block;margin:5px;" href="https://www.mysql.com"><img src="icons/mysql.svg" alt="mysql" style="vertical-align:top;"></a>
