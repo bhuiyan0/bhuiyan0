@@ -7,11 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuiyan0" alt="bhuiyan0" /></a> </p>
 
 - 🔭 I’m currently working on <a style="display: inline-block;margin:5px;" href="https://propcloud.no" target="_blank">PropCloud</a>
+- 🚀 A frontend engineer with three years of experience specializing in delivering top-level web interfaces. Proficient in **JavaScript, HTML, CSS, and frameworks like Svelte, Next.js, and Tailwind 	CSS**, I seamlessly translate design concepts into visually appealing, functional interfaces.
+My commitment to quality and staying current with industry trends ensures that I contribute effectively to dynamic projects.
 
--  I'm Currently learning **Redux**
--  My Current Stack **HTML, CSS, Javascript, Svelte.js, Tailwind.css, React.js, Nest.js, Next.js**
-
-- 💬 Ask me about **JavaScript, Next.js, Nest.js**
+- 💬 Ask me about **JavaScript, Svelte, Next.js, Nest.js**
 
 
 ### Connect with me...
