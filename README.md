@@ -1,7 +1,5 @@
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mamun0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/mamun0?trk=profile-badge">Mamun Bhuiyan</a></div>
 
 	      
 <h1 align="center"> <span style="color:#f89">Assalamu Alaikum</span>, I'm Mamun Bhuiyan</h1>
