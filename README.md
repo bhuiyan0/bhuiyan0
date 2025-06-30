@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuiyan0" alt="bhuiyan0" /></a> </p>
 
-- 🚀 A frontend engineer with three years of experience specializing in delivering top-level web interfaces. Proficient in **JavaScript, HTML, CSS, and frameworks like Svelte, Next.js, and Tailwind 	CSS**, I seamlessly translate design concepts into visually appealing, functional interfaces.
+- 🚀 A frontend engineer with three years of experience specializing in delivering top-level web interfaces. Proficient in **JavaScript, HTML, CSS, and frameworks like React.js, Svelte, Next.js, and Tailwind 	CSS**, I seamlessly translate design concepts into visually appealing, functional interfaces.
 My commitment to quality and staying current with industry trends ensures that I contribute effectively to dynamic projects.
 
 - 🔭 I’m currently working on <a style="display: inline-block;margin:5px;" href="https://placepoint.no" target="_blank">Placepoint</a>
-- 💬 Ask me about **JavaScript, Svelte, Next.js, Nest.js**
+- 💬 Ask me about **JavaScript, React.js, Svelte, Next.js, Nest.js**
 
 
 ### Connect with me...
