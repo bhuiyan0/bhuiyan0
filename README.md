@@ -23,10 +23,13 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bhuiyan0) if yo
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Mamun's GitHub Streak](https://streak-stats.demolab.com/?user=bhuiyan0&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhuiyan0&theme=default)
 
-![Mamun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuiyan0&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuiyan0&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyan0&layout=compact)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=bhuiyan0&style=flat-square)
+
