@@ -18,6 +18,9 @@ At my current company, I’ve contributed to two real estate B2B platforms—one
 💡 **What I love**  
 Clean code, well-structured components, mobile-first design, and delivering fast, beautiful interfaces that scale.
 
+📫 **Let’s connect**  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bhuiyan0) if you'd like to collaborate or have a project idea.
+
 ---
 
 ## 📈 GitHub Stats
@@ -27,8 +30,3 @@ Clean code, well-structured components, mobile-first design, and delivering fast
 ![Mamun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuiyan0&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyan0&layout=compact)
-
----
-
-📫 **Let’s connect**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bhuiyan0) if you'd like to collaborate or have a project idea.
