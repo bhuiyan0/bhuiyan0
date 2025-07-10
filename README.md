@@ -18,18 +18,17 @@ At my current company, I’ve contributed to two real estate B2B platforms—one
 💡 **What I love**  
 Clean code, well-structured components, mobile-first design, and delivering fast, beautiful interfaces that scale.
 
-📫 **Let’s connect**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bhuiyan0) if you'd like to collaborate or have a project idea.
+---
+
+## 📈 GitHub Stats
+
+![Mamun's GitHub Streak](https://streak-stats.demolab.com/?user=bhuiyan0&theme=default)
+
+![Mamun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuiyan0&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyan0&layout=compact)
 
 ---
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuiyan0&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhuiyan0" /></p>
-
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuiyan0&show_icons=true&theme=radical)
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhuiyan0&theme=dark)](https://git.io/streak-stats)
-
-
+📫 **Let’s connect**  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bhuiyan0) if you'd like to collaborate or have a project idea.
