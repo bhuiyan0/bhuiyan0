@@ -1,35 +1,37 @@
+# 👋 Hi, I’m Mamun Bhuiyan  
 
-
-
-## 👋 Hi, I'm Mamun
-
-I'm a Frontend Developer with 5+ years of experience building modern, responsive, and user-friendly web applications.
-
-🔧 **Tech Stack**  
-- **Frameworks:** React, Next.js, Svelte, SvelteKit  
-- **Styling:** Tailwind CSS, shadcn/ui  
-- **Mapping Libraries:** Mapbox, OpenLayers, ArcGIS  
-- **Charts & Visualization:** Chart.js  
-- **Other Tools:** Git, Vercel, Netlify, Figma
-
-🛠 **What I'm working on**  
-At my current company, I’ve contributed to two real estate B2B platforms—one built with Svelte and the other with React. These apps involve heavy map features and component-driven UI, making me comfortable working with geospatial libraries and performance-focused interfaces.
-
-💡 **What I love**  
-Clean code, well-structured components, mobile-first design, and delivering fast, beautiful interfaces that scale.
-
-📫 **Let’s connect**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bhuiyan0) if you'd like to collaborate or have a project idea.
+💻 **Frontend Developer** with 4+ years of experience building **scalable web apps** and **geospatial platforms**.  
+⚡ Skilled in **React, Next.js, Svelte**, and mapping libraries like **ArcGIS, Mapbox, OpenLayers**.  
+🌍 Focused on delivering **accessible, performant, and maintainable UIs** for B2B platforms and consumer apps.  
 
 ---
 
-## 📈 GitHub Activity
+## 🔧 Tech Stack  
+- **Languages:** JavaScript, TypeScript  
+- **Frontend:** React, Next.js, Svelte, AngularJS  
+- **Styling & UI:** Tailwind CSS, shadcn/ui  
+- **Mapping & Visualization:** ArcGIS, Mapbox, OpenLayers, Charting libraries  
+- **Backend Exposure:** NestJS, REST APIs  
+- **Other:** Agile, Monorepo, Code Quality, Refactoring  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhuiyan0&theme=default)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuiyan0&show_icons=true)
+## 🚀 Projects  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyan0&layout=compact)
+### 🔹 Paragon Food *(Everexpert Info System)*  
+- Developed a **nationwide grocery & food delivery platform** for Bangladesh.  
+- Reached **25,000+ registered users** and sustained **4,000+ monthly orders**.  
+- Migrated the stack to **Next.js + NestJS**, boosting scalability and performance.  
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=bhuiyan0&style=flat-square)
+---
 
+## 📈 What I’m Working On  
+- Building **geospatial features** in modern web platforms.  
+- Exploring **frontend performance optimization** and **developer tooling**.  
+- Contributing to projects that balance **clean architecture with user-focused design**.  
+
+---
+
+## 🌐 Connect With Me  
+- [LinkedIn](https://linkedin.com/in/mamun0)  
+- [GitHub](https://github.com/bhuiyan0)  
