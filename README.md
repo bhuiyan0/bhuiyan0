@@ -95,30 +95,6 @@ Creating reusable component systems and design systems using React, Tailwind CSS
 
 ---
 
-## 🤖 Currently Exploring
-
-```ts
-const currentFocus = {
-  frontend: [
-    "React",
-    "Next.js",
-    "Frontend Architecture"
-  ],
-  ai: [
-    "AI Integration",
-    "Agentic Workflows",
-    "MCP",
-    "LLM Applications"
-  ],
-  backend: [
-    "NestJS",
-    "System Design"
-  ]
-}
-```
-
----
-
 ## 📈 GitHub Goals for 2026
 
 * Build AI-powered full-stack applications
